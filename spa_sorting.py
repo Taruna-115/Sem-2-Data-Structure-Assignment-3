@@ -1,6 +1,6 @@
 """
 Sorting Performance Analyzer (SPA)
-Data Structures - Unit 2 Assignment
+Data Structures - Unit 3 Assignment
 
 Name of the School:        	School of Engineering & Technology 
 Program: 					B.Tech (AI and ML) 
